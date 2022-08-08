@@ -61,9 +61,11 @@ Here are some ideas to get you started:
 <div align="center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MathieuBretaud&langs_count=8,html&theme=cobalt&bg_color=202020&title_color=FF5C8A)](https://github.com/anuraghazra/github-readme-stats)  &nbsp;  [![Mathieu's GitHub stats](https://github-readme-stats.vercel.app/api?username=MathieuBretaud&theme=cobalt&bg_color=202020&text_color=00E0E0&title_color=FF5C8A)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+
 
 <p>&nbsp;</p>
 
 
+![Metrics](https://github.com/MathieuBreaud/MathieuBretaud/blob/main/github-metrics.svg)
 
+ </div>
