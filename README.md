@@ -1,4 +1,4 @@
-### Hi there 👋
+###  👋 Hi, i'm Mathieu Bretaud!
 
 
 
@@ -19,39 +19,51 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+----
 
-<table>
-    <tbody>
-	    <tr>
-            <td style="bgcolor:white">
-              <img align="center" width="65px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1024px-HTML5_logo_and_wordmark.svg.png"/>             </td>
-            <td>
-              <img align="center" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/800px-CSS3_logo_and_wordmark.svg.png" />             </td>
-            <td>
-              <img align="center" width="70px" src="https://www.carpemedia.fr/wp-content/uploads/2017/02/formation-php-initiation.png" />
-            </td>
-        </tr>
-      <tr>
-         <td>
-           <img align="center" width="60px" src="https://www.editions-eni.fr/blog/wp-content/uploads/2021/07/logoVuejs.png" />       
-        </td>
-         <td>
-           <img align="center" width="60px" src="https://executive-education.epitech.eu/wp-content/uploads/2021/03/symfony.png" />   
-        </td>
-         <td>
-           <img align="center" width="70px" src="https://sawakinome.com/img/images/difference-between-javascript-and-angularjs.png" />
-         </td>
-      </tr>
-    </tbody>
-</table>
+<p align="center">
+<img src="https://executive-education.epitech.eu/wp-content/uploads/2021/03/symfony.png" alt="Symfony Logo" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="PHP Logo" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="Javascript Logo" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="HTML5 Logo" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="CSS3 Logo" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap Logo" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" alt="Wordpress Logo" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git Logo" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg" alt="GitLab Logo" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="Npm Logo" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/composer/composer-original.svg" alt="Composer Logo" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" alt="Webpack Logo" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="Docker Logo" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL Logo" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original-wordmark.svg" alt="Apache Logo" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg" alt="Heroku Logo" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/phpstorm/phpstorm-original-wordmark.svg" alt="PHPStorm Logo" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="VSCode Logo" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="Linkedin Logo" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" alt="Twitter Logo" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux Logo" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="c# Logo" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt="vuejs Logo" width="50" height="50"/>
+
+
+</p>
 
 ----
 
 
+<p>&nbsp;</p>  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MathieuBretaud&layout=compact)](https://github.com/MathieuBretaud/github-readme-stats)
+## <p align=center>:fire: My GitHub Stats :fire:</p>
 
-![Les Stats GitHub de Mathieu bretaud](https://github-readme-stats.vercel.app/api?username=MathieuBretaud&count_private=true)
+<p>&nbsp;</p>  
+
+<div align="center">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MathieuBretaud&langs_count=8,html&theme=cobalt&bg_color=202020&title_color=FF5C8A)](https://github.com/anuraghazra/github-readme-stats)  &nbsp;  [![Mathieu's GitHub stats](https://github-readme-stats.vercel.app/api?username=MathieuBretaud&theme=cobalt&bg_color=202020&text_color=00E0E0&title_color=FF5C8A)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+
+<p>&nbsp;</p>
 
 
 
